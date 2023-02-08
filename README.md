@@ -1,7 +1,7 @@
 # projeto-mini-portifolio
 Projeto realizado no Curso DevQuest.
 
-<img src ="src/imagens/preview-page" alt="tela do projeto.">
+<img src ="src/imagens/preview-page.png" alt="tela do projeto.">
 <a href="https://eor13.github.io/projeto-mini-portifolio/" target="_blank">Clique Aqui para ir direto para página</a>
 
 
