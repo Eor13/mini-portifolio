@@ -1,8 +1,8 @@
 # projeto-mini-portifolio
 Projeto realizado no Curso DevQuest.
 
-<img src ="#" alt="gif da tela do projeto.">
-<a href="https://eor13.github.io/projeto-marvel/" target="_blank">Clique Aqui para ir direto para página</a>
+<img src ="./src/images/preview-page" alt="gif da tela do projeto.">
+<a href="https://eor13.github.io/projeto-mini-portifolio/" target="_blank">Clique Aqui para ir direto para página</a>
 
 
 ## Tecnologias utilizadas
